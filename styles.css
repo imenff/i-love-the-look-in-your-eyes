@@ -1,0 +1,86 @@
+/* Body style */
+body {
+    body {
+        background-image: url('C:/path_to_your_project_folder/water_lilies.jpg');
+        background-size: cover; /* Cover the entire background */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Prevent repeating the image */
+        color: #333; /* Text color */
+        font-family: Arial, sans-serif; /* Font style */
+    }
+    
+
+/* Love message container */
+.love-message {
+    background-color: #ffffff; /* White background for love message */
+    border: 3px solid #e57373; /* Soft pink border */
+    border-radius: 20px; /* Rounded corners */
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2); /* Shadow for depth */
+    padding: 40px; /* Increased padding */
+    width: 450px; /* Width of the message box */
+    max-width: 90%; /* Make it responsive */
+    text-align: center; /* Center text */
+    margin: 50px auto; /* Center the message box */
+}
+
+/* Header style */
+header {
+    background-color: #f06292; /* Pink header */
+    color: white; /* White text */
+    padding: 20px; /* Increased padding */
+    border-radius: 15px 15px 0 0; /* Rounded top corners */
+}
+
+/* Heading styles */
+h1 {
+    font-size: 2.5em; /* Large title size */
+    margin: 0; /* Remove default margin */
+    font-family: 'Garamond', serif; /* Fancy font for the title */
+    text-transform: uppercase; /* Uppercase title */
+    letter-spacing: 1px; /* Letter spacing for elegance */
+}
+
+h2 {
+    font-size: 1.8em; /* Increased subtitle size */
+    margin: 15px 0; /* Add margin */
+    color: #f48fb1; /* Soft pink color */
+}
+
+/* Optional question style */
+.optional-question {
+    font-size: 1.2em; /* Increased font size */
+    margin: 30px 0; /* Add more space around the question */
+    font-style: italic; /* Italic for emphasis */
+    color: #c2185b; /* Dark pink color */
+}
+
+/* Heartfelt message style */
+.heartfelt-message {
+    font-size: 1.5em; /* Increased font size for heartfelt message */
+    color: #7c5e3e; /* Dark brown color */
+    margin: 20px 0; /* Space around the message */
+}
+
+/* Button style */
+button {
+    padding: 15px 30px; /* Button padding */
+    font-size: 1.2em; /* Increased button font size */
+    background-color: #ff7f50; /* Coral color button */
+    color: white; /* White text */
+    border: none; /* No border */
+    cursor: pointer; /* Pointer on hover */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #e91e63; /* Darker pink on hover */
+}
+
+/* Footer style */
+footer {
+    margin-top: 30px; /* Increased margin */
+    color: #6a4c4c; /* Deep brown footer text */
+    font-size: 1.2em; /* Increased font size for footer */
+}
